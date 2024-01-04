@@ -1,2 +1,2 @@
 # GemFood
- This is a food delivery build on MERN
+ This is a food delivery Website build on MERN
